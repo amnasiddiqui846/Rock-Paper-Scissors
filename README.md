@@ -19,7 +19,7 @@ A simple Rock Paper Scissors game where you play against the computer. Built wit
 
 ## 🚀 How to Play
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/amnasiddiqui846/rock-paper-scissors.git
 Open the index.html file in your browser.
 
